@@ -1,0 +1,203 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/WASIN/Documents/obenkyo/system verilog
+vcpu
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1512643886
+!i10b 1
+!s100 nGJCO[PKmInQ;;0QabTh60
+I>HaKTcoemJD`gH]^RXOZY1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 cpu_sv_unit
+S1
+R0
+w1512643884
+8cpu.sv
+Fcpu.sv
+L0 3
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1512643886.000000
+!s107 cpu.sv|
+Z5 !s90 -sv|cpu.sv|
+!i113 1
+o-sv
+Z6 tCvgOpt 0
+vcpu1
+R1
+!s110 1509648461
+!i10b 1
+!s100 0b084P`5Y20V;PK5F8MYO0
+I144iP?c;K>H4YX1i8jRCz2
+R2
+!s105 cpu1_sv_unit
+S1
+R0
+w1509648459
+8cpu1.sv
+Fcpu1.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1509648461.000000
+!s107 cpu1.sv|
+!s90 -sv|cpu1.sv|
+!i113 1
+o-sv
+R6
+vcpu2
+R1
+!s110 1510125534
+!i10b 1
+!s100 Y=OT8f^G_13`47MR@oSS_2
+IB5:LN1G4mX?jVVPChO[Wk3
+R2
+!s105 cpu2_sv_unit
+S1
+R0
+w1510125509
+8cpu2.sv
+Fcpu2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1510125534.000000
+!s107 cpu2.sv|
+!s90 -sv|cpu2.sv|
+!i113 1
+o-sv
+R6
+vmodu
+R1
+Z7 !s110 1510229730
+!i10b 1
+!s100 S7g1<IOhc`_ejGlSG09V<2
+IbZkGGHVmO3nSHRlII8nYl0
+R2
+Z8 !s105 modu_sv_unit
+S1
+R0
+w1510229650
+8.\modu.sv
+F.\modu.sv
+L0 3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1510229730.000000
+Z10 !s107 sub.sv|.\modu.sv|
+Z11 !s90 -sv|.\modu.sv|
+!i113 1
+o-sv
+R6
+vnext_pc
+R1
+!s110 1512035026
+!i10b 1
+!s100 mjzZ60AaYoaUnKoel^3ZH2
+IhCAITeF6^ekQI`RbF[YHo0
+R2
+R3
+S1
+R0
+w1511888992
+8next_pc.sv
+Fnext_pc.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1512035026.000000
+!s107 next_pc.sv|cpu.sv|
+R5
+!i113 1
+o-sv
+R6
+vnextpc
+R1
+!s110 1511887857
+!i10b 1
+!s100 G?ddO[IWWYZXm;FT`zAdo3
+IZ<h2lA:cc2G1PemhE5dPj1
+R2
+R3
+S1
+R0
+w1511887852
+8nextpc.sv
+Fnextpc.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1511887857.000000
+!s107 nextpc.sv|cpu.sv|
+R5
+!i113 1
+o-sv
+R6
+vPC
+R1
+!s110 1512036103
+!i10b 1
+!s100 h?KYoePG6BV2=_K>CW<co1
+IbWbVQE82IER<G]eL@RUD[0
+R2
+R3
+S1
+R0
+w1512035680
+8PC.sv
+FPC.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1512036103.000000
+!s107 PC.sv|cpu.sv|
+R5
+!i113 1
+o-sv
+R6
+n@p@c
+vsub
+R1
+R7
+!i10b 1
+!s100 chjLiz1aHEc>nGVkDZQR=0
+I]iWJ5hlMS[4m3^X8_c7?@2
+R2
+R8
+S1
+R0
+w1510229725
+8sub.sv
+Fsub.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+o-sv
+R6

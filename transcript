@@ -1,0 +1,65 @@
+# vsim -c -keepstdout cpu -do "add wave *;run -all;quit" 
+# Start time: 19:51:27 on Dec 07,2017
+# Loading sv_std.std
+# Loading work.cpu
+# add wave *
+# run -all
+# optype: xx
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        0     pc:          0
+# optype: xx
+# inst: 010000000001000001000001
+# reg_f1:        0     pc:          1
+# optype: 01
+# inst: 010000000001000001000001
+# reg_f1:        0     pc:          2
+# optype: 01
+# inst: 100000000000000000000001
+# reg_f1:        1     pc:          3
+# optype: 10
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        2     pc:          4
+# optype: 11
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        2     pc:          5
+# optype: 11
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        2     pc:          1
+# optype: 11
+# inst: 010000000001000001000001
+# reg_f1:        2     pc:          2
+# optype: 01
+# inst: 100000000000000000000001
+# reg_f1:        2     pc:          3
+# optype: 10
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        3     pc:          4
+# optype: 11
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        3     pc:          5
+# optype: 11
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        3     pc:          1
+# optype: 11
+# inst: 010000000001000001000001
+# reg_f1:        3     pc:          2
+# optype: 01
+# inst: 100000000000000000000001
+# reg_f1:        3     pc:          3
+# optype: 10
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        4     pc:          4
+# optype: 11
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        4     pc:          5
+# optype: 11
+# inst: xxxxxxxxxxxxxxxxxxxxxxxx
+# reg_f1:        4     pc:          1
+# optype: 11
+# inst: 010000000001000001000001
+# reg_f1:        4     pc:          2
+# optype: 01
+# inst: 100000000000000000000001
+# reg_f1:        4     pc:          3
+# End time: 19:51:27 on Dec 07,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
